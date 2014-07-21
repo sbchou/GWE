@@ -1,10 +1,13 @@
 750-1500 words
 
+Your task in this assignment is to introduce the topic of crowdsourcing science to your readers and inform them about the central issues.
+
+At the time when Jeff Howe first coined the term "crowd-sourcing" in a 2006 article for **Wired** magazine, there was already growing excitment for what seemed like a promising new paradigm. Citing the successes of a user-contributed stock photo company, reality TV shows, and R&D by home scientists, Howe presented crowdsourcing as the democratic brother to outsourcing, where the laborer, self-selecting, was welcome regardless of not only nationality but professional background. "Welcome to the age of the crowd", he said.
 
 
-
-
-
+"Welcome to the age of the crowd", he said
+"But now it doesn't matter where the laborers are-- they might be down the block, they might be in Indonesia- as long as they are connected to the network"
+propose crowdsourcing as the supersedent to outsourcing
 
 
 
