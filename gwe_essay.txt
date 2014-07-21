@@ -2,14 +2,27 @@
 
 Your task in this assignment is to introduce the topic of crowdsourcing science to your readers and inform them about the central issues.
 
-At the time when Jeff Howe first coined the term "crowd-sourcing" in a 2006 article for **Wired** magazine, there was already growing excitment for what seemed like a promising new paradigm. Citing the successes of a user-contributed stock photo company, reality TV shows, and R&D by home scientists, Howe presented crowdsourcing as the democratic brother to outsourcing, where the laborer, self-selecting, was welcome regardless of not only nationality but professional background. "Welcome to the age of the crowd", he said.
+When Jeff Howe first coined the term "crowd-sourcing" in a 2006 article for **Wired** magazine, there was already growing excitment for what seemed like a promising new paradigm. Citing the successes of a user-contributed stock photo company, reality TV shows, and R&D by home scientists, Howe presented crowdsourcing as the democratic brother to outsourcing, where the laborer, self-selecting, was welcome regardless of not only nationality but professional background. Declaring a new era, he welcomed the reader into "the age of the crowd".
+
+Still, Howe was careful to point out potential and existing challenges for the emerging labor model. It was a whole new labor pool, and with it came new rules that he claimed common to crowdsource contributors regardless of task and field. His description of the Crowd is Hobbesian, with "a short attention span", producing "mostly crap", although in the end it's worth it, because the Crowd always manages to "find the best stuff" in the end.
+
+Although dense with hyperbole, Howe wasn't far off in his early judgement of the nature of crowdsourcing. Nearly a decade later, while crowdsourcing techniques continue to gain momentum in a variety fields, the fundamental concerns remain the same, with additional ones arising from the changing terrain of technology along with the emergence of new fields, such as the rise of digital humantiies.
+
+It is the diversity of the crowd-- that which gives crowdsourcing projects the ability to shine where traditional approaches have failed-- that also makes both the process and the product hard to judge. Because contributors can come from a wide variety of backgrounds and skillsets, they are often united only by a focused interest in the subject or activity area, whether amateur or professional. Beyond that, motivations vary by particpant-- whether personal or altruistic, extrinsic or intrinsic. In fact, the term crowdsourcing itself can be misleading-- most crowdsourcing projects involve not crowds, which are defined as large anonymous masses of people, but call on the participation of those members of the public with a particular interest and engagement in the task at hand (Dunn and Hedges).
 
 
-"Welcome to the age of the crowd", he said
-"But now it doesn't matter where the laborers are-- they might be down the block, they might be in Indonesia- as long as they are connected to the network"
-propose crowdsourcing as the supersedent to outsourcing
+Attempts to Typologies helpful but also hard in emerging fields (go thru some typologies and applicablility)
 
 
 
 
+
+
+Laborers/division of labor
+Hardest gathering/filtering --> inefficient?
+Crowd Science
+How about digital humanities?
+Remains extremely attractive to policy makers et al (high returns)
+Typologies help us understand them
+CS systems help us deal with them
 
