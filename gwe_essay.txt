@@ -8,7 +8,13 @@ Still, Howe was careful to point out potential and existing challenges for the e
 
 Although dense with hyperbole, Howe wasn't far off in his early judgement of the nature of crowdsourcing. Nearly a decade later, while crowdsourcing techniques continue to gain momentum in a variety fields, the fundamental concerns remain the same, with additional ones arising from the changing terrain of technology along with the emergence of new fields, such as the rise of digital humantiies.
 
-It is the diversity of the crowd-- that which gives crowdsourcing projects the ability to shine where traditional approaches have failed-- that also makes both the process and the product hard to judge. Because contributors can come from a wide variety of backgrounds and skillsets, they are often united only by a focused interest in the subject or activity area, whether amateur or professional. Beyond that, motivations vary by particpant-- whether personal or altruistic, extrinsic or intrinsic. In fact, the term crowdsourcing itself can be misleading-- most crowdsourcing projects involve not crowds, which are defined as large anonymous masses of people, but call on the participation of those members of the public with a particular interest and engagement in the task at hand (Dunn and Hedges).
+It is the diversity of the crowd-- that which gives crowdsourcing projects the ability to shine where traditional approaches have failed (as Howe notes, the odds of a contributor solving a problem actually increases when they have no formal training in that area)-- that also makes both the process and the product hard to judge. Because contributors can come from a wide variety of backgrounds and skillsets, they are often united only by a focused interest in the subject or activity area, whether amateur or professional. Beyond that, motivations vary by particpant-- whether personal or altruistic, extrinsic or intrinsic. In fact, the term crowdsourcing itself can be misleading-- most crowdsourcing projects involve not crowds, which are defined as large anonymous masses of people, but call on the participation of those members of the public with a particular interest and engagement in the task at hand (Dunn and Hedges).
+
+Further complications arise 
+
+
+
+
 
 
 Attempts to Typologies helpful but also hard in emerging fields (go thru some typologies and applicablility)
