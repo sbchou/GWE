@@ -14,21 +14,38 @@ One way to gain insight into the user is to look into the nature of the task its
 
 Attempts to formulate typologies, or the marking of a system into essential parts and processes, have been prevalent in the research of crowdsourcing and similiar activities. Most specifities thus far have focused on the realm of **crowd science**, also known as **citizen science**, **networked science**, or **massively-collaborative science** (naming proves often to be a science within itself). Crowd science is marked by open participation and the transparency of intermediary steps, to varying degrees (Franzoni and Sauermann).
 
+One popular typology for crowd science, presented by Bonney et al., creates three tiers of projects, distinguished by the level of control contributors have in the overall design. These divisions are **contributory**, **collaborative**, and **co-created projects** (Dunn and Hedges). This task-based approach is useful in defining crowd science, as the classification of the project in turn helps classify its users, which remain the core of all crowdsourcing-related problems. The four fundamental challenges of crowdsourcing systems, as detailed by Dohan et al., are all focused on the care and keeping of the user: how to recruit the user, how to retain the user, how to combine the works of different users, and how to evaluate these user contributions. Even in the most unexpected of use-cases, such as when Jerome Lewis, a social anthropologist worked with Rwandan pygmy hunter-gatherers to target poachers and loggers with specially designed smartphones, defining the type of task makes data gathering and collaboration easier (Gura).
+
+These typologies for crowd science are helpful, but must also be adjusted and overwritten for other areas of academia. With the advent of digital research and the digital humanities, the next challenge is to categorize crowdsourcing methods outside of scientific applications. One particular issue lies in the fact that task and process types are far more difficult and also significant for projects in the humanities; since there is so much diveresity in research material (Dunn and Hedges). Dunn and Hedges propose a research infrastructure for the humanitries that takes into account six types of tasks: those that are mechanical, configurational, editorial, synthetic, investigative and creative, in addition to the asset type and the output type. Previous attempts in the Galleries, Libraries, Archives, and Museums (GLAM) sectors to create typologies focus only on task typologies and do not fully reflect the complexity of the project at hand (Dunn and Hedges).
 
 
-Attempts to Typologies helpful but also hard in emerging fields (go thru some typologies and applicablility)
-
-
-
-
-
+Regardless of field filtering data issues
+Still even with typologies, the question of filtering remains-- and effeciency
 
 Laborers/division of labor X
-Typologies help us understand them
-Crowd Science
+Typologies help us understand them X
+Crowd Science X
 How about digital humanities?ardest gathering/filtering --> inefficient?
 Pitfalls of both crowd science (everything from publication to stuff-- its listed in one of the articles)
 special issues for digihums
 
 Remains extremely attractive to policy makers et al (high returns)
+
+
+for crowd science:
+Gist: crowd science can help, but comes with complications
+What is end goal? outreach, or something more?
+
+Cons: 
+how to organize/collect data
+ensure data sound?
+hard to measure growth
+Actually enormously expensive in terms of time and effort, managing people and DBs
+people management esp. hard -- don’t know who is on other end (amateur/professional)
+Hard to guarantee quality of data
+Large scale = even harder to control quality
+science also has to be “romantic”-- appealing, engaging
+have to understand volunteer’s motivation
+
+Challenge of getting citizen-science data through peer review (but getting easier/more common)
 
