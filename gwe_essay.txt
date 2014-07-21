@@ -18,34 +18,8 @@ One popular typology for crowd science, presented by Bonney et al., creates thre
 
 These typologies for crowd science are helpful, but must also be adjusted and overwritten for other areas of academia. With the advent of digital research and the digital humanities, the next challenge is to categorize crowdsourcing methods outside of scientific applications. One particular issue lies in the fact that task and process types are far more difficult and also significant for projects in the humanities; since there is so much diveresity in research material (Dunn and Hedges). Dunn and Hedges propose a research infrastructure for the humanitries that takes into account six types of tasks: those that are mechanical, configurational, editorial, synthetic, investigative and creative, in addition to the asset type and the output type. Previous attempts in the Galleries, Libraries, Archives, and Museums (GLAM) sectors to create typologies focus only on task typologies and do not fully reflect the complexity of the project at hand (Dunn and Hedges).
 
+Beyond categorization of processes, there lie questions in quality control universal to all crowdsourcing projects. The issue balancing openess with quality of data collected can be especially tricky to navigate, as crowdsourced projects rely heavily an image of inclusion and interest (the "romance" factor) to gain traction. In reality, ensuring that the data collected is sound-- verifying the crowdsourced data-- becomes extremely difficult when a mix of professionals and amateurs collaborate. Crowdsourcing is a double-edged sword-- the larger the project grows, the harder it becomes to monitor quality, and although projects may be initially appealing due to the low cost of labor, it is in fact very expensive in terms of management. Managing contributors, databases, and directors can be difficult ona large scale, and arguably **less** efficient than traditional setups (Gura). 
 
-Regardless of field filtering data issues
-Still even with typologies, the question of filtering remains-- and effeciency
+Then, there is the question of acceptance-- passing citizen-science data projects through peer review can be challenging, although popularity has grown over the past few years (Gura). Alternative publications-- such as blogposts-- can provide an outlet for such projects, but barriers remain, especially when expanding beyond science.
 
-Laborers/division of labor X
-Typologies help us understand them X
-Crowd Science X
-How about digital humanities?ardest gathering/filtering --> inefficient?
-Pitfalls of both crowd science (everything from publication to stuff-- its listed in one of the articles)
-special issues for digihums
-
-Remains extremely attractive to policy makers et al (high returns)
-
-
-for crowd science:
-Gist: crowd science can help, but comes with complications
-What is end goal? outreach, or something more?
-
-Cons: 
-how to organize/collect data
-ensure data sound?
-hard to measure growth
-Actually enormously expensive in terms of time and effort, managing people and DBs
-people management esp. hard -- don’t know who is on other end (amateur/professional)
-Hard to guarantee quality of data
-Large scale = even harder to control quality
-science also has to be “romantic”-- appealing, engaging
-have to understand volunteer’s motivation
-
-Challenge of getting citizen-science data through peer review (but getting easier/more common)
-
+Still, crowdsourcing, in science, the humanities, and beyond, remains extremely attractive to funders and policy makers. Even if crowd contribution is messy, it is often free, and thus automatically yields high returns given an investment (Franzoni and Sauermann). One might say that the means justify the ends-- and the initial enthusiasm that Howe writes with in the 2006 issue of **Wired** magazine not only lives on, but has grown more and more into an established new workflow. 
