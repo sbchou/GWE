@@ -10,10 +10,9 @@ Although dense with hyperbole, Howe wasn't far off in his early judgement of the
 
 It is the diversity of the crowd-- that which gives crowdsourcing projects the ability to shine where traditional approaches have failed (as Howe notes, the odds of a contributor solving a problem actually increases when they have no formal training in that area)-- that also makes both the process and the product hard to judge. Because contributors can come from a wide variety of backgrounds and skillsets, they are often united only by a focused interest in the subject or activity area, whether amateur or professional. Beyond that, motivations vary by particpant-- whether personal or altruistic, extrinsic or intrinsic. In fact, the term crowdsourcing itself can be misleading-- most crowdsourcing projects involve not crowds, which are defined as large anonymous masses of people, but call on the participation of those members of the public with a particular interest and engagement in the task at hand (Dunn and Hedges).
 
-Further complications arise 
+One way to gain insight into the user is to look into the nature of the task itself. In "Crowdsourcing Systems on the World-Wide Web", a 2011 survey paper evaluating the state of crowdsourcing systems (CS) at that time, the author proposes four basic roles in any CS system: the **slave**, **perspective provider**, **content provider**, and **component provider**. The slave works on problems that need many resources but can be divided into simple subtasks per user, such as in Amazon Mechanical Turk; the perspective provider provides opinions (as in book reviews), the content provider produces her own material, whether artistic or scientific, and the compenent providers create a community or network. However, humans can play multiple roles in a single CS system (Dohan et al.).
 
-
-
+Attempts to formulate typologies, or the marking of a system into essential parts and processes, have been prevalent in the research of crowdsourcing and similiar activities. Most specifities thus far have focused on the realm of **crowd science**, also known as **citizen science**, **networked science**, or **massively-collaborative science** (naming proves often to be a science within itself). Crowd science is marked by open participation and the transparency of intermediary steps, to varying degrees (Franzoni and Sauermann).
 
 
 
@@ -24,11 +23,12 @@ Attempts to Typologies helpful but also hard in emerging fields (go thru some ty
 
 
 
-Laborers/division of labor
-Hardest gathering/filtering --> inefficient?
-Crowd Science
-How about digital humanities?
-Remains extremely attractive to policy makers et al (high returns)
+Laborers/division of labor X
 Typologies help us understand them
-CS systems help us deal with them
+Crowd Science
+How about digital humanities?ardest gathering/filtering --> inefficient?
+Pitfalls of both crowd science (everything from publication to stuff-- its listed in one of the articles)
+special issues for digihums
+
+Remains extremely attractive to policy makers et al (high returns)
 
